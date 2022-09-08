@@ -26,7 +26,7 @@ const imuncertain = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -71,17 +71,17 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      34 mins             ██████████████████░░░░░░░   71.91% 
-HTML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.07% 
+PHP                      34 mins             ███████████████████░░░░░░   76.6% 
+HTML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   23.38% 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-PhpStorm                 34 mins             ██████████████████░░░░░░░   72.98% 
-Notepad++                12 mins             ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+PhpStorm                 34 mins             ███████████████████░░░░░░   77.73% 
+Notepad++                9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.25% 
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.0%
+Windows                  44 mins             █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2022 01:56:44 UTC
+ Last Updated on 08/09/2022 01:54:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
