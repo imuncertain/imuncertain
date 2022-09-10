@@ -71,15 +71,13 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      34 mins             ███████████████████░░░░░░   76.61% 
-HTML                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   23.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 34 mins             ███████████████████░░░░░░   77.75% 
-Notepad++                9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.25%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 02:02:16 UTC
+ Last Updated on 10/09/2022 01:54:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
