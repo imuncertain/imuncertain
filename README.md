@@ -24,7 +24,7 @@ const imuncertain = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -71,13 +71,15 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0%
+PHP                      2 mins              █████████████████████████   99.76% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+Notepad++                2 mins              █████████████████████████   99.76% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 01:55:30 UTC
+ Last Updated on 31/10/2022 01:54:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
