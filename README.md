@@ -42,6 +42,45 @@ const imuncertain = {
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   39.02% 
+🌃 Evening    96 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       66 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Thursday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Friday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Sunday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -55,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 01:29:14 UTC
+ Last Updated on 11/11/2022 01:32:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
