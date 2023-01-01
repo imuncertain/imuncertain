@@ -32,7 +32,7 @@ const imuncertain = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 202 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 6.6 MB Used in GitHub's Storage 
  > 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:08:03 UTC
+ Last Updated on 01/01/2023 01:20:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
