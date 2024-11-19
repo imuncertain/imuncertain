@@ -69,7 +69,7 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ████████████████░░░░░░░░░   64.58 % 
+TypeScript               5 hrs 17 mins       ████████████████░░░░░░░░░   64.59 % 
 Lua                      2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
@@ -95,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2024 01:13:11 UTC
+ Last Updated on 19/11/2024 01:11:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
