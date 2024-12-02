@@ -24,6 +24,8 @@ const imuncertain = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
@@ -32,14 +34,48 @@ const imuncertain = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌆 Daytime                173 commits         ███████████░░░░░░░░░░░░░░   42.61 % 
+🌃 Evening                147 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌙 Night                  40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Tuesday                  40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Wednesday                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Friday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -53,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 01:24:01 UTC
+ Last Updated on 02/12/2024 01:16:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
