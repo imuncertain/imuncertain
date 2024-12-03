@@ -34,6 +34,8 @@ const imuncertain = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 41 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -89,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 01:16:35 UTC
+ Last Updated on 03/12/2024 01:14:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
