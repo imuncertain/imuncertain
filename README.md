@@ -34,8 +34,6 @@ const imuncertain = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -69,14 +67,13 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Lua                      18 mins             █████████████████████████   98.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2025 02:01:56 UTC
+ Last Updated on 20/07/2025 02:08:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
