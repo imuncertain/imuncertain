@@ -1,26 +1,47 @@
-<h2>Im Uncertain if you really wanted to be here...</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Developer for <a href="https://tea-mc.com/">Tea-MC
-</a>
-</em></p>
+<h1 align="center">Hey there 👋 I'm Uncertain</h1>
+<p align="center">
+  <em>"Im uncertain if you really wanted to be here... but since you are, let's make it worth it."</em>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/imuncertain?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://tea-mc.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=imuncertain.imuncertain)
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding GIF">
+</p>
 
-### <img src="https://clipartix.com/wp-content/uploads/2018/03/thinking-gif-2018-36.gif" width="50"> A little more about me...  
+---
+
+### 🚀 About Me
 
 ```javascript
 const imuncertain = {
-    lang: ["C#", "Java", "PHP", "Lua", "Javascript"],
-    projects: ["Tea-MC", "Tea-RP", "UINC", "Life"],
-    learning: ["PHP", "Javascript", "CSS"],
-    currentFocus: "Tea-MC Website ",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    languages: ["C#", "Java", "PHP", "Lua", "JavaScript", "HTML", "CSS"],
+    projects: ["Tea-MC (Honorable Mention)", "Tea-RP", "UINC", "Life"],
+    learning: ["Full Stack Development", "Modern JS Frameworks", "UI/UX"],
+    currentFocus: "Building cool stuff & learning every day",
+    funFact: "Sometimes I debug my code just to remember what past me was thinking."
 };
 ```
 
-<img src="https://tea-mc.com//assets/imgs/logo.png" width="60"> <em><b>Come check us out on Tea-MC</b></em>
+---
+
+### 🛠 Tech & Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,php,java,cs,lua,html,css,github,discord,vscode" />
+</p>
+
+---
+
+### 📜 Honorable Mentions
+- 🏆 **Tea-MC** – Minecraft Network I once helped build (now offline, but still proud)
+- 🚓 **Tea-RP** – An offspring roleplay community & creative project apart of Tea-MC
+- 🛠 **Me** – Tools & scripts for various platforms
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imuncertain&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imuncertain&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 <!--START_SECTION:waka-->
