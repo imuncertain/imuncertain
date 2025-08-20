@@ -45,7 +45,7 @@ const imuncertain = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,17 +90,13 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ███████████████░░░░░░░░░░   61.90 % 
-HTML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Lua                      9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -116,7 +112,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2025 02:01:47 UTC
+ Last Updated on 20/08/2025 01:47:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
